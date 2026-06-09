@@ -30,9 +30,6 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Generated datasets
-data/*.csv
-
 # Trained models
 models/*.pkl
 
