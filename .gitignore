@@ -30,9 +30,6 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Trained models
-models/*.pkl
-
 # Logs
 *.log
 
